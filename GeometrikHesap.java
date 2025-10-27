@@ -44,3 +44,7 @@ class Main {
   }
 
 }
+
+git add .
+git commit -m "Odev 2 tamamlandi"
+git push
