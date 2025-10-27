@@ -4,9 +4,9 @@
  * Tarih: [27.10.2025]
  * Aciklama: Gorev 1 - Ogrenci Bilgi Sistemi
  * 
- * Bu program kullanicidan ogrenci bilgilerini alir ve
+ * Bu program kullanicidan dairenin yarı çapını alarak dairenin alan , çevre , çap , yüzeyalanı ve hacmini hesaplayarak
  * duzenli bir formatta ekrana yazdirir.
- * Diğer java dosyalarının başında da bu örnek formattaki gibi kısa bilgi giriniz
+ * 
  */
 
 
