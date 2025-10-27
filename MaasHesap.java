@@ -56,7 +56,7 @@ class Main {
     System.out.println("         MAAS BODROSU");
     System.out.println("=============================");
     System.out.println("Calısan : " + Ad + " " + Soyad);
-    System.out.printf("%s %te.%<tM.%<tY", "Tarih :", date);
+    System.out.printf("%s %te.%<tM.%<tY", "Tarih   :", date);
     System.out.println("");
     System.out.println("\nGELIRLER :");
     System.out.printf("  Brut Maas              : %.2f TL", BürütMaaş);
