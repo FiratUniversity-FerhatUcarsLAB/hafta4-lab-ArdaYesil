@@ -22,11 +22,11 @@ class Main {
       //Çıktı Gösterildi
       System.out.println("\nSonuçlar :");
       System.out.println("===========");
-      System.out.printf(" Daire Alanı       : %.2f", alan);
-      System.out.printf("\n Daire Çevresi     : %.2f", çevre);
-      System.out.printf("\n Daire Çapı        : %.2f", çap);
-      System.out.printf("\n Daire Hacmi       : %.2f", hacim);
-      System.out.printf("\n Daire Yüzey Alanı : %.2f", yuzeyAlanı);
+      System.out.printf(" Daire Alanı       : %.2f cm", alan);
+      System.out.printf("\n Daire Çevresi     : %.2f cm", çevre);
+      System.out.printf("\n Daire Çapı        : %.2f cm", çap);
+      System.out.printf("\n Daire Hacmi       : %.2f cm³", hacim);
+      System.out.printf("\n Daire Yüzey Alanı : %.2f cm", yuzeyAlanı);
   
     //Scanner kapandı
     input.close();
