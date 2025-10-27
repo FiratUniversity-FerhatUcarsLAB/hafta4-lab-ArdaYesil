@@ -68,3 +68,7 @@ public class OgrenciBilgi {
         
     }
 }
+
+git add .
+git commit -m "Odev 1 tamamlandi"
+git push
