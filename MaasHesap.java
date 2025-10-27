@@ -15,6 +15,7 @@ class Main {
   public static void main(String[] args) {
     Scanner input = new Scanner(System.in);
 
+    //Kullunacının verileri alınıyor.
     System.out.println("=== MAAS HESAPLAMA SISTEMI ===");
     System.out.print("\nAdınızı Giriniz : ");
     String Ad = input.nextLine();
@@ -31,6 +32,7 @@ class Main {
     System.out.print("Mesai Saati Sayısını Giriniz : ");
     int MesaiSaati = input.nextInt();
 
+    //Gerekli değişkenler tanımlanıyor ve gerekli hesaplamalar yapılıyor.
     Date date = new Date();
 
     int AylıkÇalışmaSaati=HaftalıkÇalışmaSaati/5*22;
@@ -49,6 +51,7 @@ class Main {
     Double SaatlikNetKazanç = NetMaaş / AylıkÇalışmaSaati;
     Double GünlükNetKazanç = NetMaaş / 22;
 
+    //Ekrana çıktı olarak yazdırılır.
     System.out.println("=============================");
     System.out.println("         MAAS BODROSU");
     System.out.println("=============================");
@@ -74,6 +77,7 @@ class Main {
     System.out.printf("\n  Gunluk Net Kazanç      : %.2f  TL/gün", GünlükNetKazanç);
     System.out.println("\n=============================");
 
+    //Scanner kapatıldı
     input.close();
   }
 
