@@ -82,7 +82,3 @@ class Main {
   }
 
 }
-
-git add .
-git commit -m "Odev 3 tamamlandi"
-git push
