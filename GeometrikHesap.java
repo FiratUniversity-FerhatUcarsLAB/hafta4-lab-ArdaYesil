@@ -2,7 +2,7 @@
  * Ad Soyad: [Arda Yeşil]
  * Ogrenci No: [250542013]
  * Tarih: [27.10.2025]
- * Aciklama: Gorev 1 - Ogrenci Bilgi Sistemi
+ * Aciklama: Gorev 2 - Geometrik Hesap
  * 
  * Bu program kullanicidan dairenin yarı çapını alarak dairenin alan , çevre , çap , yüzeyalanı ve hacmini hesaplayarak
  * duzenli bir formatta ekrana yazdirir.
