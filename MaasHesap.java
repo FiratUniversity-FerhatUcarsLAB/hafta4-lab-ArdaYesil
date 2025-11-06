@@ -2,7 +2,7 @@
  * Ad Soyad: [Arda Yeşil]
  * Ogrenci No: [250542013]
  * Tarih: [27.10.2025]
- * Aciklama: Gorev 1 - Ogrenci Bilgi Sistemi
+ * Aciklama: Gorev 1 - MaasHesap
  * 
  * Bu programı kullanarak Kullanıcıdan Adı,Soyadı,Haftalık çalışma saati , brüt maaşı ve mesai saatini verilerini alarak kullanıcının maaşını hesaplayıp 
  * detaylı bir şekilde ekrana yazdırıyoruz.
